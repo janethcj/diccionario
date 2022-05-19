@@ -33,3 +33,10 @@ $(document).ready(function() {
 		});
 	});
 });
+
+$(document).ready(function() {
+	$('#letter-j j').click(function(event) {
+		event.preventDefault();
+		$('#dictionary').load('j.html');
+	});
+});
