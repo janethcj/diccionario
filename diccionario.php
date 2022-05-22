@@ -55,6 +55,9 @@
         <div class="letter" id="letter-h">
           <h3><a href="entries-h.html">H</a></h3>
         </div>
+        <div class="letter" id="letter-i">
+          <h3><a href="entries-i.html">I</a></h3>
+        </div>
 
       </div>
       <div id="dictionary">
